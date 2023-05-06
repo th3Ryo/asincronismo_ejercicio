@@ -7,8 +7,8 @@
     "deploy" : "gh-pages -d src" 
   },
   "repository": {
-    "type" : "git" 
-    "url" : "git+https://github.com/th3Ryo/asincronismo_ejercicio.git" 
+    "type" : "git",
+    "url" : "git+https://github.com/th3Ryo/asincronismo_ejercicio.git"
   },
   "keywords": [],
   "author": "",
